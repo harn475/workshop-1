@@ -1,7 +1,7 @@
 # workshop-1
 ## Coding Fundamentals 
 I continued being excited about the colour of the background and used this to inspire me when starting workshop one. <br />
-<img width="648" alt="Screenshot 2025-01-16 at 11 27 36 PM" src="https://github.com/user-attachments/assets/2e6eaca4-6c31-4443-b48a-255c469732cb" />
+<img width="648" alt="Screenshot 2025-01-16 at 11 27 36 PM" src="https://github.com/user-attachments/assets/2e6eaca4-6c31-4443-b48a-255c469732cb" /> <br />
 I chose to use a circle as my new shape.
 I experimented with functions, creating a flower function as my main component. 
 I had some trouble when it came to the random numbers, when creating more flowers I found that they fell apart and the circles were all over the screen, or clumped together. 
