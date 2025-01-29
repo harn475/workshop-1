@@ -9,9 +9,6 @@ I had some trouble when it came to the random numbers, when creating more flower
 I fixed this myself by going back to the workshop, and slowing trouble shooting by changing one number at a time. I also made the 'petals' all different colours (before changing them to white to resemble a daisy) as it was easier to view the petals - at this point I hadn't thought to change the number of petals down to the one. <br />
 I also had an issue with the flowers all forming in the upper left corner, although still randomly appearing, they never touched the bottom right corner. to fix this I changed the limit on the random from width to 500. I would be interested in looking further into this to work out why they werent touching, and not having to expand the parameters. 
 
-Certainly! Here's a reference list along with a declaration of your help sources:
-
----
 
 **Reference List:**
 
